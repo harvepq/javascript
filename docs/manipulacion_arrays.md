@@ -56,3 +56,8 @@ The *map()* method of **Array** intences creates a new array populated with the 
 
 **Return value** </br>
 A new array with each element being the result of the callback function.
+
+**Description**</br>
+- *map()* creates a new array form calling a function for every array element.
+- *map()* does not execute the function for empty elements.
+- *map()* does not change the original array.
